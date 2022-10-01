@@ -7,14 +7,14 @@
 
 ## Results
     Various analysis outcomes will be addressed here, regarding the number of employees who would be retiring, their job information and other employees for the mentorship program.
-### There are 133776 records if we just look for the employees within the retirement age, however not all of these are still accurate as some would have left the company or moved on to a new job title, which would create duplicate records.
+### -There are 133776 records if we just look for the employees within the retirement age, however not all of these are still accurate as some would have left the company or moved on to a new job title, which would create duplicate records.
 
-### There are 72458 records if we filter out all the duplicate employee numbers with mutiple job titles, and employees who are no longer working for the company, this number provides a more accurate representation of how many are going to retire soon.
+### -There are 72458 records if we filter out all the duplicate employee numbers with mutiple job titles, and employees who are no longer working for the company, this number provides a more accurate representation of how many are going to retire soon.
   
-### Most of the employees who will be retiring are Senior Engineers and Senior Staffs, which should be expected given their age. That is a large number of 60842 roles that would need to be filled soon either through internal promotion or outside hiring. There are also 2 managers retiring soon that need to be filled soons.
+### -Most of the employees who will be retiring are Senior Engineers and Senior Staffs, which should be expected given their age. That is a large number of 60842 roles that would need to be filled soon either through internal promotion or outside hiring. There are also 2 managers retiring soon that need to be filled soons.
 ![](/Resources/number_titles.png)
   
-### There are 1549 employees who are eligible for the mentorship program, that number is far from enough to fill in the retiring positions, so the program would need to be expanded to include more employees or alot of hiring from outside would need to occur.
+### -There are 1549 employees who are eligible for the mentorship program, that number is far from enough to fill in the retiring positions, so the program would need to be expanded to include more employees or alot of hiring from outside would need to occur.
 
 ## Summary
     The analysis was effective at providing the results for retirement numbers, but more could be found out to see how prepared the company is at handling all these retirements.
